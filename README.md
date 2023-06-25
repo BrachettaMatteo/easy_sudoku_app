@@ -16,11 +16,13 @@ Principal rules:
 - flutter_bloc: ^8.1.3
 - collection: ^1.17.1
 - flutter_svg: ^2.0.7
+- shared_preferences: ^2.1.2
 
 ## Credits
 
 - **Argument project:** [Fudeo](https://www.fudeo.it)
-- **Algorithm
-  game:** [sudoku_solver_generator: ^2.1.0+1](https://pub.dev/documentation/sudoku_solver_generator/latest/)
+- **Algorithm game:** [sudoku_solver_generator: ^2.1.0+1](https://pub.dev/documentation/sudoku_solver_generator/latest/)
 - **Grafics welcome scrren:** [undraw](https://undraw.co/)
-# simply_sudoku_app
+
+## Aspect
+[](.girhub/dark/welcom_darkpng)
