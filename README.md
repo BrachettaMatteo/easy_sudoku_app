@@ -25,4 +25,6 @@ Principal rules:
 - **Grafics welcome scrren:** [undraw](https://undraw.co/)
 
 ## Aspect
-[](.girhub/dark/welcom_darkpng)
+[<img src=".github/light/welcome_light.png" width="400"/>](image.png) [<img src=".github/dark/welcom_dark.png" width="400"/>](image.png)
+
+[<img src=".github/light/mainApp_light.png" height="250"/>](image.png) [<img src=".github/dark/mainApp_dark.png" height="250"/>](image.png)
