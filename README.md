@@ -1,6 +1,6 @@
 # sudoku_app
 
-Simple sudoku app.
+Easy sudoku app.
 
 ## Rules
 
